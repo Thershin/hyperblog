@@ -1,1 +1,3 @@
 Mi historia comienza aquí, donde aprenderé a programar como un Master.
+
+Voy a validar el git reset --soft
